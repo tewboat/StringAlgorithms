@@ -12,7 +12,7 @@
 		}
 		static void Main(string[] args)
 		{
-			IsTestPassed(Encoding.UTF8.GetBytes("aaaa"), Encoding.UTF8.GetBytes("aaaaaaaaaaaaaaaaaaaaaaaaa"));
+			IsTestPassed(Encoding.UTF8.GetBytes("a"), Encoding.UTF8.GetBytes("aaaaaaaaaaaaaaaaaaaaaaaaa"));
 			var rand = new Random();
 			var pattern = new byte[100];
 			var text = new byte[2000];

@@ -13,7 +13,7 @@
 			for (var i = 0; i < n; i++)
 			{
 				var cnt = 0;
-				if (offset < 0 || i + z[offset] > rightBound)
+				if (offset < 0 || m <= 1 || i + z[offset] > rightBound)
 				{
 					cnt = Math.Max(0, rightBound - i + 1);
 					while (i + cnt < n && cnt < m && Equal(pattern[cnt], text[i + cnt]))
