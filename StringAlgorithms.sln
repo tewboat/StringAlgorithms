@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compress", "Compress\Compress.csproj", "{1B994529-4E4C-4F41-99B6-54DC6C4ED0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFunc", "ZFunc\ZFunc.csproj", "{999D1510-B0BA-4E2C-8BFA-EDE2C631A6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Match2d", "Match2d\Match2d.csproj", "{7E71A37C-A2C7-4385-81AA-AEEF80BF41CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B994529-4E4C-4F41-99B6-54DC6C4ED0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B994529-4E4C-4F41-99B6-54DC6C4ED0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B994529-4E4C-4F41-99B6-54DC6C4ED0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B994529-4E4C-4F41-99B6-54DC6C4ED0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999D1510-B0BA-4E2C-8BFA-EDE2C631A6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999D1510-B0BA-4E2C-8BFA-EDE2C631A6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999D1510-B0BA-4E2C-8BFA-EDE2C631A6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999D1510-B0BA-4E2C-8BFA-EDE2C631A6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E71A37C-A2C7-4385-81AA-AEEF80BF41CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E71A37C-A2C7-4385-81AA-AEEF80BF41CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E71A37C-A2C7-4385-81AA-AEEF80BF41CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E71A37C-A2C7-4385-81AA-AEEF80BF41CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
